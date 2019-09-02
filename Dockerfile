@@ -1,0 +1,1 @@
+FROM docker.elastic.co/logstash/logstash:7.3.1@sha256:bf255e48dc2e1334831bbc9e898563ce3ac5c3be304b1549691b717dc546366f
